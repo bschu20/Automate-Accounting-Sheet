@@ -1,4 +1,4 @@
-# Automate-Accounting-Sheet
+# Automated-Accounting-Sheet
 This program does the following:
 <br>
 --accesses my calendar and looks up my students for that day and retrieves them
